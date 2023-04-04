@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Brais</h1>
-<h3 align="center">a junior full-stack developer 👨‍💻 Ready to code! 🤖💻</h3>
+<h3 align="center">a full-stack developer 👨‍💻 Ready to code! 🤖💻</h3>
 
 - 💻 I’m currently working as Software Engineer at **[Zara.com](https://www.zara.com)**
 
