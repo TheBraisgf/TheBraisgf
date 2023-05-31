@@ -7,7 +7,7 @@
  
 - 🌱 I’m also learning Python🐍 and Dart🎯
 
-- ⚡ Fun fact: I'm a content creator in different **[social networks]((https://instabio.cc/braisgfroom))**
+- ⚡ Fun fact: I'm a content creator in different **[social networks](https://instabio.cc/braisgfroom)**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <!--JAVASCRIPT--><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
