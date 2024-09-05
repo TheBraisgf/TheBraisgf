@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Brais</h1>
 <h3 align="center">a full-stack developer 👨‍💻 Ready to code! 🤖💻</h3>
 
-- 💻 I’m currently working as Front Developer at **[Zara.com](https://www.zara.com)**
+- 💻 I am currently working on several interesting projects!**
 
 - 📫 How to reach me: **braisgf@gmail.com**
  
 - 🌱 I’m also learning Python🐍 and C#👾
 
-- ⚡ Fun fact: I'm a content creator in different **[social networks](https://instabio.cc/braisgfroom)**
+- ⚡ Fun fact: I'm a content creator in different **[social networks]([https://instabio.cc/braisgfroom](https://braisgf.vercel.app/))**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <!--JAVASCRIPT--><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
