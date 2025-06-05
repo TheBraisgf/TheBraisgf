@@ -1,13 +1,33 @@
-<h1 align="center">Hi 👋, I'm Brais</h1>
-<h3 align="center">a full-stack developer 👨‍💻 Ready to code! 🤖💻</h3>
+<h1 align="center">Hey there 👋 I'm Brais</h1>
+<h3 align="center">🚀 Full-Stack Developer | Creative Technologist | Lifelong Learner</h3>
 
-- 💻 I am currently working on several interesting projects!**
+---
 
-- 📫 How to reach me: **braisgf@gmail.com**
- 
-- 🌱 I’m also learning Python🐍 and C#👾
+🎯 **About Me**  
+I'm a passionate full-stack developer with a curious mind and a maker's heart.  
+Currently building apps, games, and tools that mix code, creativity, and community.  
 
-- ⚡ Fun fact: I'm a content creator in different **[social networks](https://braisgf.vercel.app/)**
+🛠️ **Tech Stack**  
+JavaScript • Python • C# • Node.js • React • MongoDB • AWS • Unity • Git  
+Always exploring new technologies to level up.
+
+🧠 **Learning Now**  
+Expanding my skills in **AI integration**, **backend Python**, and **game development** with Unity.
+
+🌐 **Portfolio & Projects**  
+Check out what I’m building: [braisgf.dev](https://braisgf.dev)
+
+🎥 **Content Creator**  
+I share my journey, code experiments, geek culture, and dev tips across social media.  
+Come say hi! 🤓
+
+📬 **Let's connect**  
+braisgf@gmail.com  
+Feel free to reach out for collaborations, ideas, or just a good tech chat!
+
+---
+
+*"Imagine, Code, Create, Share, Repeat"*  
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <!--JAVASCRIPT--><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
@@ -17,15 +37,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/braisgfroom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="braisgfroom" height="30" width="40" /></a>
-<a href="https://dev.to/braisgf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="braisgf" height="30" width="40" /></a>
 <a href="https://twitter.com/braisgfroom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="braisgfroom" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/braisgf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="braisgf" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/20410819" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20410819" height="30" width="40" /></a>
-<a href="https://codesandbox.com/braisgf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="braisgf" height="30" width="40" /></a>
-<a href="https://fb.com/braisgf98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="braisgf98" height="30" width="40" /></a>
 <a href="https://instagram.com/braisgfroom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="braisgfroom" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/braisgf room" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="braisgf room" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/braisgf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="braisgf" height="30" width="40" /></a>
-<a href="/https://instabio.cc/3030409iouir3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://instabio.cc/3030409iouir3" height="30" width="40" /></a>
+</a>
 </p>
